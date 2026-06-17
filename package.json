@@ -1,0 +1,6 @@
+{
+  "name": "upstream-guard-permissions",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Minimal default permission groups for upstream-guard"
+}
